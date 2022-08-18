@@ -37,7 +37,7 @@
 
 drawLine(100,100, width, height, 'purple')
 
-drawCircle(width/10, height/20, 30, 'blue');
+drawCircle(width/20, height/20, 30, 'blue');
 
 drawRect(50, 50, 60, 40, 'neon');
 
