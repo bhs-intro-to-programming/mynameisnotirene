@@ -44,3 +44,5 @@ drawRect(50, 50, 60, 40, 'neon');
 drawFilledCircle(width - 1, height - 50, 50, 'gold');
 
 drawFilledRect(5, height - 20, 45, 15, 'orange');
+
+drawRectangle
