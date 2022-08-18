@@ -47,3 +47,4 @@ drawFilledRect(5, height - 20, 45, 15, 'orange');
 
 drawFilledCircle(width/20, height/30, 40, 'yellow');
 drawFilledRect(20, 20, 30, 40, 'orange')
+drawFilledRect(2000, 2000, 3000, 4000, 'red')
