@@ -45,4 +45,4 @@ drawFilledCircle(width - 1, height - 50, 50, 'gold');
 
 drawFilledRect(5, height - 20, 45, 15, 'orange');
 
-drawRectangle
+drawRectangle(width/50, height/70, 60, 'red')
