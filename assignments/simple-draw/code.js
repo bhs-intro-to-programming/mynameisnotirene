@@ -35,9 +35,7 @@
  *
  */
 
-drawLine(1, 1, width, height,)
 
-drawLine(0, 0, width, height, 'black')
 drawLine(-100, 0, width, height, 'black')
 
 
