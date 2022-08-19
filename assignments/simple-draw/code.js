@@ -35,16 +35,4 @@
  *
  */
 
-drawLine(100,100, width, height, 'purple')
 
-drawCircle(width/40, height/20, 30, 'blue');
-
-drawRect(50, 50, 60, 40, 'neon');
-
-drawFilledCircle(width - 1, height - 50, 50, 'gold');
-
-drawFilledRect(5, height - 20, 45, 15, 'orange');
-
-drawFilledCircle(width/20, height/30, 40, 'yellow');
-drawFilledRect(20, 20, 30, 40, 'orange')
-drawFilledRect(2000, 2000, 3000, 4000, 'red')
