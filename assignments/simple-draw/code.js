@@ -38,7 +38,7 @@
 drawLine(1, 1, width, height,)
 
 drawLine(0, 0, width, height, 'black')
-drawLine(100, 0, width, height, 'black')
+drawLine(-100, 0, width, height, 'black')
 
 
 drawFilledCircle(width - 50, height - 50, 50, 'red');
