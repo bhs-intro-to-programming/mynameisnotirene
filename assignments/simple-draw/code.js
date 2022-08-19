@@ -37,7 +37,7 @@
 
 drawLine(1, 1, width, height,)
 
-drawLine(1, 1, width, height, 'red')
+drawLine(10, 10, width, height, 'red')
 
 
 drawRect(50, 50, 60, 40, 'black');
