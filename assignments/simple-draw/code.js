@@ -35,4 +35,13 @@
  *
  */
 
-drawLine(x10, y10, x20, y20, green, lineWidth)
+drawLine(1, 1, width, height, 'green')
+
+
+drawCircle(width/2, height/2, 10, 'blue');
+
+drawRect(50, 50, 60, 40, 'black');
+
+drawFilledCircle(width - 50, height - 50, 50, 'red');
+
+drawFilledRect(5, height - 20, 45, 15, 'purple');
