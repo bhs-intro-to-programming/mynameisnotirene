@@ -8,5 +8,10 @@
     "name": "Energetic?",
     "answer": "enoughSleep ",
     "correct": false
+  },
+  {
+    "name": "Energetic?",
+    "answer": "enoughSleep &&! justWorkedout",
+    "correct": false
   }
 ]
