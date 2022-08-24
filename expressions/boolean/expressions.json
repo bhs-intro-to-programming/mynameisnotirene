@@ -40,5 +40,11 @@
     "answer": "!fun || tired",
     "correct": true,
     "timestamp": 1661378729977
+  },
+  {
+    "name": "Time to sleep?",
+    "answer": "!sleepy || dark",
+    "correct": false,
+    "timestamp": 1661378748378
   }
 ]
