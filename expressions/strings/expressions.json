@@ -118,5 +118,11 @@
     "answer": "s.substring(0,0)",
     "correct": false,
     "timestamp": 1661379707028
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "answer": "s.substring(1,0)",
+    "correct": false,
+    "timestamp": 1661379746045
   }
 ]
