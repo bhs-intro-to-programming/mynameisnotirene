@@ -70,5 +70,11 @@
     "answer": "isSenior || invitedBySenior",
     "correct": true,
     "timestamp": 1661379491780
+  },
+  {
+    "name": "Having fun?",
+    "answer": "done ||fun",
+    "correct": false,
+    "timestamp": 1661379528333
   }
 ]
