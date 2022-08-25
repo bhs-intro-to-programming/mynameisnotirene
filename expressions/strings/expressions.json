@@ -154,5 +154,11 @@
     "answer": "s.substring(s.length)",
     "correct": false,
     "timestamp": 1661380124024
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "answer": "'foobar'",
+    "correct": true,
+    "timestamp": 1661464851108
   }
 ]
