@@ -83,5 +83,12 @@
     "name": "In the room where it happens?",
     "answer": "inTheClass || isProctor",
     "correct": true
+  },
+  {
+    "name": "Can go into creepy crawly cave?",
+    "canonical": "!afraidOfTheDark && !afraidOfSpiders",
+    "answer": "!afraidOfTheDark &&! afraidOfSpiders",
+    "correct": true,
+    "timestamp": 1661810380744
   }
 ]
