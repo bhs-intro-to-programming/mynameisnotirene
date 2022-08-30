@@ -89,5 +89,12 @@
     "answer": "fast && strong",
     "correct": true,
     "timestamp": 1661896948097
+  },
+  {
+    "name": "Doing well?",
+    "canonical": "enoughSleep && keepingUp",
+    "answer": "enoughSleep && keepingUp",
+    "correct": true,
+    "timestamp": 1661896966306
   }
 ]
