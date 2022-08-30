@@ -75,5 +75,12 @@
     "answer": "Math.abs(x1+x2)(y1+y2)",
     "correct": false,
     "timestamp": 1661896313520
+  },
+  {
+    "name": "Product",
+    "canonical": "a * b",
+    "answer": "a*b",
+    "correct": true,
+    "timestamp": 1661898190669
   }
 ]
