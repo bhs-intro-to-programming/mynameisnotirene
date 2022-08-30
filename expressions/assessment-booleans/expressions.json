@@ -138,5 +138,12 @@
     "answer": "!afraidOfTheDark &&! afraidOfSpiders",
     "correct": true,
     "timestamp": 1661897126937
+  },
+  {
+    "name": "Dragging?",
+    "canonical": "!enoughSleep && lotsOfWork",
+    "answer": "!enoughSleep && lostOfWork",
+    "correct": false,
+    "timestamp": 1661897166354
   }
 ]
