@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Energetic?",
+    "canonical": "enoughSleep && !justWorkedOut",
+    "answer": "enoughSleep &&! justWorkedOut",
+    "correct": true,
+    "timestamp": 1661896560815
+  }
+]
