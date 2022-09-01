@@ -117,5 +117,12 @@
     "answer": "Math.abs(x1-x2) + Math.abs(y1-y2)",
     "correct": true,
     "timestamp": 1662070304694
+  },
+  {
+    "name": "Area of circle with radius 2",
+    "canonical": "Math.PI * 4",
+    "answer": "Math.PI*4",
+    "correct": true,
+    "timestamp": 1662070462801
   }
 ]
