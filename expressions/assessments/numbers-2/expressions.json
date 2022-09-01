@@ -33,5 +33,12 @@
     "answer": "6432-4000",
     "correct": true,
     "timestamp": 1662069301165
+  },
+  {
+    "name": "Difference",
+    "canonical": "a - b",
+    "answer": "a-b",
+    "correct": true,
+    "timestamp": 1662069312294
   }
 ]
