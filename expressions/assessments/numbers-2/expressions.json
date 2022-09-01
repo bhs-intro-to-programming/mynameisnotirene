@@ -47,5 +47,12 @@
     "answer": "(a+b)/2",
     "correct": true,
     "timestamp": 1662069329570
+  },
+  {
+    "name": "Sum",
+    "canonical": "a + b",
+    "answer": "a+b",
+    "correct": true,
+    "timestamp": 1662069331825
   }
 ]
