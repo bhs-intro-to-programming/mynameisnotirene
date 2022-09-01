@@ -19,5 +19,12 @@
     "answer": "isSenior || invitedBySenior",
     "correct": true,
     "timestamp": 1662069948244
+  },
+  {
+    "name": "Ready for some football?",
+    "canonical": "fast && strong",
+    "answer": "fast && strong",
+    "correct": true,
+    "timestamp": 1662069954589
   }
 ]
