@@ -54,5 +54,12 @@
     "answer": "s1+s2",
     "correct": true,
     "timestamp": 1662760341962
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "s[0]",
+    "correct": true,
+    "timestamp": 1662760377417
   }
 ]
