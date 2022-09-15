@@ -180,5 +180,12 @@
     "answer": "s.length",
     "correct": true,
     "timestamp": 1663277936206
+  },
+  {
+    "name": "Last character",
+    "canonical": "s[s.length - 1]",
+    "answer": "s.substring(s.length-1)\t",
+    "correct": true,
+    "timestamp": 1663277945358
   }
 ]
