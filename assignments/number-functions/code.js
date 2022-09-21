@@ -25,6 +25,6 @@ const distance = (a, b) => {
 const manhattanDistance = (a, b, c, d) => {
   return Math.abs(a-c)+Math.abs(b-d)
 }
-const euclideaDistance = (a, b, c, d,) => {
+const euclideanDistance = (a, b, c, d,) => {
   return Math.sqrt(((Math.abs(a-c))**2)+((Math.abs(b-d))**2))
 }
