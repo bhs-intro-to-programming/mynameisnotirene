@@ -10,4 +10,13 @@ const rand = (n) => Math.floor(Math.random() * n);
 // reasonable argument list, yet more credit for a working function, and full
 // credit for a clear and simple working function.
 
-const fireAlarm = (_smokeIsDetected,
+const fireAlarm = (_smokeDetected,_plannedFiredrill) => {
+  return _smokeDetected || _plannedFireDrill
+}
+const canBePresident = (_ageInYears,_bornCitizens,_yearsLivedInUS) => {
+  return _ageInYears && _bornCitizens || _yearsLivedInUS
+}
+const willSeeTweet = (_followTweeter,_followRetweeter,_blocked) => {
+  return _followTweeter || _followRetweeter &&! _blocked
+}
+const evenGreaterThanZero = 
