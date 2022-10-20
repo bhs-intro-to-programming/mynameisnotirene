@@ -19,4 +19,7 @@ const canBePresident = (_ageInYears,_bornCitizens,_yearsLivedInUS) => {
 const willSeeTweet = (_followTweeter,_followRetweeter,_blocked) => {
   return (_followTweeter || _followRetweeter) && !_blocked
 }
-const evenGreaterThanZero = (n) => n % 2 === 0
+const evenGreaterThanZero = (n) => {
+  return n % 2 === 0
+}
+const 
