@@ -9,5 +9,6 @@
   "4",
   "The number of elements in the array x",
   "When Math.random() returns a number less that 0.01",
-  "It tests whether there are more than limit prime numbers below max."
+  "It tests whether there are more than limit prime numbers below max.",
+  "71"
 ]
