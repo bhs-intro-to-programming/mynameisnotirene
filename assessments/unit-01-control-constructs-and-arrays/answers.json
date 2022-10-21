@@ -2,5 +2,6 @@
   "No",
   "Neither foo nor bar.",
   "Both foo and bar",
-  "x = x + i * 10"
+  "x = x + i * 10",
+  "100"
 ]
