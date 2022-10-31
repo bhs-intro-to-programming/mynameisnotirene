@@ -11,27 +11,26 @@ const rand = (n) => Math.floor(Math.random() * n);
 // function but you can get partial credit for a function that is basically
 // correct even if contains small mistakes.
 const firstHalf = (foobar) => {
-  return 'foo'
+  return foo
 }
 const secondHalf = (foobar) => {
-  return 'bar'
+  return bar
 }
 const upDown = (shush) => {
-  return 'SHUSHshush'
+  return SHUSHshush
 }
 const firstFewEveryOther = (haters) => {
-  return 'htr'
+  return htr
 }
 const upDownLastCharacter = (gas) => {
-  return 'Ss'
+  return Ss
 }
 const firstAndLast = (hungry) => {
-  return 'hy'
+  return hy
 }
 const swapFrontAndBack = (silvio) => {
-  return 'viosil'
+  return viosil
 }
 const isAllUpperCase = (kisses) => {
-  return 'KISSES'
+  return KISSES
 }
-const 
