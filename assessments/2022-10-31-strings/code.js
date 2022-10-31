@@ -16,7 +16,7 @@ const firstHalf = (foobar) => {
 }
 2.
 const secondHalf = (foobar) => {
-  return bar
+  return 'bar'
 }
 3.
 const upDown = (shush) => {
