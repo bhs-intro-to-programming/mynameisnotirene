@@ -24,7 +24,7 @@ const upDown = (shush) => {
 }
 4.
 const firstFewEveryOther = (haters) => {
-  return htr
+  return 'htr'
 }
 5.
 const upDownLastCharacter = (gas) => {
