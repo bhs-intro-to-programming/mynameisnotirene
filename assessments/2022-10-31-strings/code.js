@@ -12,7 +12,7 @@ const rand = (n) => Math.floor(Math.random() * n);
 // correct even if contains small mistakes.
 1.
 const firstHalf = (foobar) => {
-  return foo
+  return 'foo'
 }
 2.
 const secondHalf = (foobar) => {
