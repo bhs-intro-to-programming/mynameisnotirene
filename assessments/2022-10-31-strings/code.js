@@ -20,7 +20,7 @@ const secondHalf = (foobar) => {
 }
 3.
 const upDown = (shush) => {
-  return SHUSHshush
+  return 'shushSHUSH'
 }
 4.
 const firstFewEveryOther = (haters) => {
