@@ -12,5 +12,19 @@ const averageWeight = (w, n) => {
 const hypotenuse = (c, a, b) => {
   return a*b
 }
-const 
+const maxRadius = (a,b) => {
+  return a**b
+}
+const numCircles = (
 
+)
+const canSleepIn = (weekday, vacation) => {
+  return weekday && vacation
+}
+const canGoToProm = (senior, invited, exclusion) => {
+  return senior || invited && exclusion
+}
+const getSpeedingTicket = (grouchyCop65, notGruchyCop70) => {
+  return grouchyCop65 || notGruchyCop70
+}
+const 
