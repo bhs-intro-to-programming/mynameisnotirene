@@ -9,5 +9,8 @@ const emit = (a, b, product) => {
 const averageWeight = (w, n) => {
   return w/n
 }
-
+const hypotenuse = (c, a, b) => {
+  return a*b
+}
+const 
 
