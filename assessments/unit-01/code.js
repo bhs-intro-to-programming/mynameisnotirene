@@ -10,3 +10,4 @@ const averageWeight = (w, n) => {
   return w/n
 }
 
+
