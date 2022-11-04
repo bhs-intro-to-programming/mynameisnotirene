@@ -37,5 +37,8 @@ const firstHalf = (foobar) => {
   return s.length/2(foobar)
 }
 const upDown = (foo) => {
+  return foo .toUpperCase()+foo
+}
+const everyOther = (foobar) => {
   return 
 }
