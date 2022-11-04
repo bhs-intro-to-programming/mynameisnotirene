@@ -27,4 +27,15 @@ const canGoToProm = (senior, invited, exclusion) => {
 const getSpeedingTicket = (grouchyCop65, notGruchyCop70) => {
   return grouchyCop65 || notGruchyCop70
 }
-const 
+const moreThanTwiceAsLong = (a, b) => {
+  return a*2 > b
+}
+const aFartherThanB = (a, b, c) => {
+  return a**2 > b,c
+}
+const firstHalf = (foobar) => {
+  return s.length/2(foobar)
+}
+const upDown = (foo) => {
+  return 
+}
