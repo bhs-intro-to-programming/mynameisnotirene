@@ -11,5 +11,5 @@ const distance = (x1, x2) => {
   return Math.sqrt( (x1.x - x2.x) **2 + (x1.y - x2.y) **2)
 }
 const midpoint = (p1, p2) => {
-  return {x: 0, y: 0}
+  return {x: (p1.x + p2.x) /2, y: 0}
 }
