@@ -7,3 +7,6 @@ const point = (x, y) => {
 const emptyObject = (object) => {
   return {}
 }
+const distance = (x, y) => {
+  return 
+}
