@@ -4,3 +4,4 @@ const getX = (object) => {
 const point = (x, y) => {
   return {x,y}
 }
+const 
