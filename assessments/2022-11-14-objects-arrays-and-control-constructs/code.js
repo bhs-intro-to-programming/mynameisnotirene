@@ -5,7 +5,7 @@ const area = (rect) => {
 };
 
 const higherPaid = (e1, e2) => {
-}; e1
+}; e1.highherPaid
 
 const isSamePoint = (p1, p2) => {
 };
