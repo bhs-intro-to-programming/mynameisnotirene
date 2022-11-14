@@ -14,7 +14,7 @@ const totalWithTip = (bill, tipPercentage) => {
 };
 
 const isWinner = (player) => {
-};
+}; moreThan100 &&! lessThan100
 
 const updateWins = (players) => {
 };
