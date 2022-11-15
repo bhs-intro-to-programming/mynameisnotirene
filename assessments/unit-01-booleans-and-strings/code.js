@@ -22,4 +22,6 @@ const willSeeTweet = (_followTweeter,_followRetweeter,_blocked) => {
 const evenGreaterThanZero = (n) => {
   return n % 2 === 0
 }
-const isLeapYear = 
+const isLeapYear = (year2004) => {
+  return 
+}
