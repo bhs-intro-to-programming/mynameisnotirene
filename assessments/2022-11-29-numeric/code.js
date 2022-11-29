@@ -25,4 +25,6 @@ const perPresent = (totalMoney, numberOfPresents) => {
 const wrapingCombos = (numberOfWrappingPaper, numberOfRibbions, numberOfBows) => {
   return numberOfWrappingPaper * numberOfRibbions * numberOfBows
 }
-const biggestNumber = ()
+const biggestNumber = (numberOfDigits) => {
+  return numberOfDigits**
+}
