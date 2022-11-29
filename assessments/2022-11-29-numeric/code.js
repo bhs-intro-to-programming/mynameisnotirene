@@ -1,7 +1,9 @@
-const totalEggs = (hardBoiledEggs, softBoiledEggs) ; {
+const totalEggs = (hardBoiledEggs, softBoiledEggs)  {
   return hardBoiledEggs+softBoiledEggs
 }
 const chocolatePerPerson = (chocolates, people) ; {
   return chocolates/people
 }
-const 
+const extraChocolates = (chocolates, people) 
+}
+}
