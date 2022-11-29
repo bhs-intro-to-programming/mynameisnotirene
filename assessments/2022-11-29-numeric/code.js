@@ -19,4 +19,10 @@ const futureHour = (currentHour, futureHour) => {
 const presentsBudget = (numberOfFriends, averagePrice) => {
   return 
 }
+const perPresent = (totalMoney, numberOfPresents) => {
+  return totalMoney/numberOfPresents 
+}
+const wrapingCombos = (numberOfWrappingPaper, numberOfRibbions, numberOfBows) => {
+  return numberOfWrappingPaper * numberOfRibbions * numberOfBows
+}
 const 
