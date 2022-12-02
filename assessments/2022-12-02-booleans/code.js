@@ -13,4 +13,12 @@ const isVenomous = (stripedSnake, blueHeadSnake) => {
 const okaySpeed = (_speedLimit10MPH, carSpeedMPH) => {
   return _speedLimit10MPH && carSpeedMPH ; 10
 }
-const 
+const twiceAsExpensive = (firstItem, secondItem) => {
+  return firstItem *2> secondItem
+}
+const winningRecord = (numberOfWinnning, numberOfLosses, numberOfTies) = {
+  return : numberOfWinning > numberOfLosses && numberOfTies
+}
+const isMagicNumber = (number42, number17) => {
+  return number42 || number17
+}
