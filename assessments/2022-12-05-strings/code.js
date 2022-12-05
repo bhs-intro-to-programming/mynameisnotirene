@@ -1,3 +1,3 @@
 const upToX = (toxic) => {
-  return upToX(toxic) ; to
+  return upToX(toxic)
 }
