@@ -1,3 +1,3 @@
-const upToX = (toxic) => upToX(toxic) ;{
-  return to
+const upToX = (toxic) => {
+  return 
 }
