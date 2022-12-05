@@ -7,4 +7,6 @@ const charactersAround = (kilogram, 5) => {
 const middle = (kuyaraia) => {
   return yara
 }
-const 
+const pair = (you, me) => {
+  return 
+}
