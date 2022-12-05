@@ -4,4 +4,7 @@ const upToX = (toxic) => {
 const charactersAround = (kilogram, 5) => {
   return
 }
+const middle = (kuyaraia) => {
+  return yara
+}
 const 
