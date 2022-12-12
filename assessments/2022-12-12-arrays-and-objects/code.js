@@ -1,5 +1,5 @@
 const makeRow = () => {
-  return 
+  return ["","",""]
 }
 const makeBoard = () => {
   return 
