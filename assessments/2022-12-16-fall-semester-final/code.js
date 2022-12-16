@@ -96,7 +96,7 @@ const pair = (a, b) => {
 
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
-const totalEggs = (a, b) => {
-  return 
+const fireAlarm = (pulled, smokeDetected, planned) => {
+  return pulled ||| smokeDetected ||| planned
 }
 }
