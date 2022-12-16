@@ -97,6 +97,30 @@ const pair = (a, b) => {
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
 const fireAlarm = (pulled, smokeDetected, planned) => {
-  return pulled ||| smokeDetected ||| planned
+  return pulled && smokeDetected || planned
 }
+const canBePresident = (ageInYears, bornCitizen, yearsLivedInUs) => {
+  return ageInYears>35 && bornCitizen && yearsLivedInUs
 }
+const willSeeTweet = (tweeter, retweeterFollower, blocked) => {
+  return tweeter || retweeterFollower &! blocked
+}
+const needHeavyCoat = (goOutside, cold) => {
+  return goOutside && cold
+}
+const needSunscreen = (goToBeach, goSkiing) => {
+  return goToBeach || goSkiing
+}
+const needMittens = (goOutside, warm) => {
+  return goOutside &! warm
+}
+const isVenomous = (stripedSnake, blueHeadSnake) => {
+  return stripedSnake &! blueheadSnake
+}
+const canSleepIn = (weekday, vacation) => {
+  return !weekday && vacation
+}
+const canGoToProm = (senior, invited, exclusion) => {
+  return senior || invited && exclusion
+}
+const 
