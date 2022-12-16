@@ -123,4 +123,3 @@ const canSleepIn = (weekday, vacation) => {
 const canGoToProm = (senior, invited, exclusion) => {
   return senior || invited && exclusion
 }
-const 
